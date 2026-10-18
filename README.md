@@ -63,7 +63,7 @@ Where to actually run your bot in production.
 
 ## Channel management
 
-- **[OpenSparta](https://opensparta.com/en)** — Web workspace for Telegram account and proxy management, audience discovery, and engagement workflows.
+- **[OpenSparta](https://opensparta.com/en)** — Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
 
 ## Telegram-native marketplaces
 
